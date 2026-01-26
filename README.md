@@ -34,7 +34,7 @@ A collection of Data Science and Machine Learning projects showcasing practical 
 
 | Badge | Certification Name | Issued By | Certificate |
 |:-----:|:-------------------|:----------|:-----------:|
-| <img src="./certifications/badges/badge1.png" width="80"> | Machine Learning Specialization | Coursera / Stanford | [View Certificate](./certifications/ml-specialization/) |
+| <img src="./img/kaggle.png" width="80"> | Kaggle Python | Kaggle | [View Certificate](./certifacations/ihor%20zadorozhniak%20-%20Python.png) |
 | <img src="./certifications/badges/badge2.png" width="80"> | Python for Data Science | IBM | [View Certificate](./certifications/python-ds/) |
 | <img src="./certifications/badges/badge3.png" width="80"> | Deep Learning Specialization | DeepLearning.AI | [View Certificate](./certifications/deep-learning/) |
 | <img src="./certifications/badges/badge4.png" width="80"> | SQL for Data Science | Coursera | [View Certificate](./certifications/sql-ds/) |
