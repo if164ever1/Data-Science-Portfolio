@@ -2,7 +2,17 @@
 
 ## 📊 Data Science & Machine Learning Portfolio
 
-A collection of Data Science and Machine Learning projects showcasing practical knowledge, skills, and experience.
+A comprehensive collection of **Data Science**, **Machine Learning**, and **Numerical Programming** projects showcasing practical knowledge, skills, and hands-on experience.
+
+---
+
+## 📚 Quick Navigation
+
+- [🛠️ Skills & Tools](#-skills--tools)
+- [📂 Projects](#-projects)
+- [📖 Learning Materials](#-learning-materials)
+- [🏆 Certifications](#-certifications--badges)
+- [📫 Connect](#-connect-with-me)
 
 ---
 
@@ -28,9 +38,31 @@ A collection of Data Science and Machine Learning projects showcasing practical 
 
 ---
 
+## 📖 Learning Materials
+
+### 🔬 Numerical Programming in Python
+A structured learning path covering mathematical foundations and their applications in data science.
+
+**📖 [View Full Guide](./Numerical%20Programming%20in%20Python/Readme.md)** - Complete overview and structure
+
+#### Mathematical Foundations
+Fundamental mathematical concepts essential for data science and machine learning:
+
+| Topic | Description | Status |
+|-------|-------------|--------|
+| [📐 Linear Mapping](./Numerical%20Programming%20in%20Python/01_Linear_Mapping.md) | Understanding vector space transformations | ✅ |
+| [📏 Translation in Data Science](./Numerical%20Programming%20in%20Python/02_Translation_in_Data_Science.md) | Applying translation concepts to data preprocessing | ✅ |
+| [📊 Scaling in Data Science](./Numerical%20Programming%20in%20Python/03_Scaling.md) | Scaling features for improved model performance | ✅ |
+
+**What You'll Learn:**
+- Mathematical foundations for machine learning
+- Vector and matrix operations
+- Data transformation techniques
+- Real-world applications in ML
+
 ---
 
-## 🏆 Certifications & Badges
+Below are the professional certifications and credentials I've earned:
 
 | Badge | Certification Name | Issued By | Certificate |
 |:-----:|:-------------------|:----------|:-----------:|
@@ -57,3 +89,14 @@ A collection of Data Science and Machine Learning projects showcasing practical 
 ---
 
 ⭐ *Feel free to explore my repositories and reach out for collaboration!*
+
+---
+
+## 📝 License
+
+This portfolio is open source and available under the MIT License.
+
+---
+
+**Last Updated:** February 2026  
+**Questions or Feedback?** Feel free to reach out!
