@@ -7,6 +7,7 @@ This folder contains mathematical explanations, problem-solving demonstrations, 
 
 ### Mathematical Foundations
 1. [Linear Mapping (Linear Transformation)](01_Linear_Mapping.md) - Understanding vector space transformations
+2. [Translation in Data Science](02_Translation_in_Data_Science.md) - Applying translation concepts to data science
 
 ## Contents
 
