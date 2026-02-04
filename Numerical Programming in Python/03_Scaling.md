@@ -1,4 +1,4 @@
- # Scaling (Масштабування)
+ # Scaling
 
 ## What is it?
 
