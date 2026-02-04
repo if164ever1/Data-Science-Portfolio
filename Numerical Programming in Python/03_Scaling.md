@@ -16,18 +16,29 @@ Before scaling:        After scaling (2× x, 0.5× y):
 
 ## Two Types of Scaling
 
-| Type | Matrix | What it does |
-|------|--------|--------------|
-| **Uniform** | $$s \cdot I = \begin{bmatrix} s & 0 \\ 0 & s \end{bmatrix}$$ | Same factor for all directions (keeps shape) |
-| **Non-uniform** | $$\begin{bmatrix} s_x & 0 \\ 0 & s_y \end{bmatrix}$$ | Different factors per axis (stretches shape) |
+### **Uniform Scaling** (Same factor in all directions)
+$$S = s \cdot I = \begin{bmatrix} s & 0 \\ 0 & s \end{bmatrix}$$
+Keeps the shape, just resizes uniformly.
+
+### **Non-uniform Scaling** (Different factors per axis)
+$$S = \begin{bmatrix} s_x & 0 \\ 0 & s_y \end{bmatrix}$$
+Changes the shape by stretching different axes differently.
 
 ---
 
 ## The Formula
 
-$$\mathbf{y} = S \cdot \mathbf{x} = \begin{bmatrix} s_x & 0 \\ 0 & s_y \end{bmatrix} \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} = \begin{bmatrix} s_x \cdot x_1 \\ s_y \cdot x_2 \end{bmatrix}$$
+The scaling transformation applies a diagonal matrix to your vector:
 
-Each component gets multiplied independently — that's why the matrix is **diagonal**.
+$$\mathbf{y} = S \cdot \mathbf{x}$$
+
+Where:
+$$S = \begin{bmatrix} s_x & 0 \\ 0 & s_y \end{bmatrix}, \quad \mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix}$$
+
+This gives:
+$$\mathbf{y} = \begin{bmatrix} s_x \cdot x_1 \\ s_y \cdot x_2 \end{bmatrix}$$
+
+**Key insight:** Each component gets multiplied independently — that's why the matrix is **diagonal**.
 
 ---
 
@@ -127,10 +138,11 @@ plt.show()
 
 | Application | How Scaling Helps |
 |-------------|-----------------|
-| **Feature normalization** | Scale all features to [0,1] or mean=0, std=1 |
-| **Gradient descent** | Prevents "elongated" loss landscapes (faster training) |
-| **Image preprocessing** | Resize images to fixed input size for CNN |
-| **PCA / SVD** | Often need standardized data before decomposition |
+| **Feature Normalization** | Scale all features to [0,1] or $\mu=0, \sigma=1$ for fair comparison |
+| **Gradient Descent** | Prevents "elongated" loss landscapes, enables faster training |
+| **Image Preprocessing** | Resize images to fixed input size for CNN models |
+| **PCA / SVD** | Standardization needed before decomposition for accuracy |
+| **Distance-based ML** | Prevents features with large values from dominating (KNN, K-means) |
 
 ---
 
@@ -150,17 +162,22 @@ Good:  Salary = 0.7          Age = 0.4   (both in [0,1] range)
 
 ## Key Formulas for Your Notes
 
-| What | Formula |
-|------|---------|
-| 2D scaling matrix | $$S = \begin{bmatrix} s_x & 0 \\ 0 & s_y \end{bmatrix}$$ |
-| n-D scaling matrix | $$S = \text{diag}(s_1, s_2, ..., s_n)$$ |
-| Determinant (area change) | $$\det(S) = s_x \cdot s_y$$ |
-| Inverse (undo scaling) | $$S^{-1} = \begin{bmatrix} 1/s_x & 0 \\ 0 & 1/s_y \end{bmatrix}$$ |
+| Concept | Formula |
+|---------|---------|
+| **2D Scaling Matrix** | $$S = \begin{bmatrix} s_x & 0 \\ 0 & s_y \end{bmatrix}$$ |
+| **n-D Scaling Matrix** | $$S = \text{diag}(s_1, s_2, \ldots, s_n)$$ |
+| **Determinant (Area Change)** | $$\det(S) = s_x \cdot s_y$$ |
+| **Inverse (Undo Scaling)** | $$S^{-1} = \begin{bmatrix} \frac{1}{s_x} & 0 \\ 0 & \frac{1}{s_y} \end{bmatrix}$$ |
 
-> **Determinant = how much area/volume changes**
-> - det = 4 → area becomes 4× bigger
-> - det = 0.25 → area becomes 4× smaller
-> - det = 0 → collapse to line or point (no inverse!)
+### Understanding the Determinant
+
+The determinant tells you how the area/volume changes:
+
+$$\det(S) = s_x \cdot s_y$$
+
+- $\det(S) = 4$ → Area becomes **4× bigger**
+- $\det(S) = 0.25$ → Area becomes **4× smaller**  
+- $\det(S) = 0$ → Collapses to a line or point (⚠️ no inverse!)
 
 ---
 
