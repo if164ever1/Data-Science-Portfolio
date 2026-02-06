@@ -9,6 +9,7 @@ This folder contains mathematical explanations, problem-solving demonstrations, 
 1. [Linear Mapping (Linear Transformation)](01_Linear_Mapping.md) - Understanding vector space transformations
 2. [Translation in Data Science](02_Translation_in_Data_Science.md) - Applying translation concepts to data science
 3. [Scaling in Data Science](03_Scaling.md) - Scaling features for improved model performance
+4. [Eigenvalues and Eigenvectors](04_Eigenvalues_and_Eigenvectors.md) - Understanding eigenvectors and eigenvalues and their application in PCA and PageRank
 
 ## Contents
 

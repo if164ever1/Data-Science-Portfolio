@@ -9,9 +9,8 @@ A comprehensive collection of **Data Science**, **Machine Learning**, and **Nume
 ## 📚 Quick Navigation
 
 - [🛠️ Skills & Tools](#-skills--tools)
-- [📂 Projects](#-projects)
 - [📖 Learning Materials](#-learning-materials)
-- [🏆 Certifications](#-certifications--badges)
+- [🏆 Certifications](#-certifications)
 - [📫 Connect](#-connect-with-me)
 
 ---
@@ -25,16 +24,6 @@ A comprehensive collection of **Data Science**, **Machine Learning**, and **Nume
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📂 Projects
-
-| Project | Description | Tools | Link |
-|---------|-------------|-------|------|
-| 🔮 **Project 1** | Coming Soon | Python, Pandas | [View](#) |
-| 📈 **Project 2** | Coming Soon | Scikit-Learn | [View](#) |
-| 🤖 **Project 3** | Coming Soon | TensorFlow | [View](#) |
 
 ---
 
@@ -53,6 +42,7 @@ Fundamental mathematical concepts essential for data science and machine learnin
 | [📐 Linear Mapping](./Numerical%20Programming%20in%20Python/01_Linear_Mapping.md) | Understanding vector space transformations | ✅ |
 | [📏 Translation in Data Science](./Numerical%20Programming%20in%20Python/02_Translation_in_Data_Science.md) | Applying translation concepts to data preprocessing | ✅ |
 | [📊 Scaling in Data Science](./Numerical%20Programming%20in%20Python/03_Scaling.md) | Scaling features for improved model performance | ✅ |
+| [📉 Eigenvalues and Eigenvectors](./Numerical%20Programming%20in%20Python/04_Eigenvalues_and_Eigenvectors.md) | Understanding eigenvectors/eigenvalues in PCA and PageRank | ✅ |
 
 **What You'll Learn:**
 - Mathematical foundations for machine learning
@@ -62,15 +52,13 @@ Fundamental mathematical concepts essential for data science and machine learnin
 
 ---
 
+## 🏆 Certifications
+
 Below are the professional certifications and credentials I've earned:
 
 | Badge | Certification Name | Issued By | Certificate |
 |:-----:|:-------------------|:----------|:-----------:|
-| <img src="./img/kaggle.png" width="80"> | Kaggle Python | Kaggle | [View Certificate](./certifacations/ihor%20zadorozhniak%20-%20Python.png) |
-| <img src="./certifications/badges/badge2.png" width="80"> | Python for Data Science | IBM | [View Certificate](./certifications/python-ds/) |
-| <img src="./certifications/badges/badge3.png" width="80"> | Deep Learning Specialization | DeepLearning.AI | [View Certificate](./certifications/deep-learning/) |
-| <img src="./certifications/badges/badge4.png" width="80"> | SQL for Data Science | Coursera | [View Certificate](./certifications/sql-ds/) |
-| <img src="./certifications/badges/badge5.png" width="80"> | TensorFlow Developer | Google | [View Certificate](./certifications/tensorflow/) |
+| <img src="./img/kaggle.png" width="80"> | Kaggle Python | Kaggle | [View Certificate](./Certifications/ihor%20zadorozhniak%20-%20Python.png) |
 
 ---
 
