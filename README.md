@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm IHOR
 
 ## 📊 Data Science & Machine Learning Portfolio
 
