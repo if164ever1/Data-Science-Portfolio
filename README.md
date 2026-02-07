@@ -50,14 +50,10 @@ Fundamental mathematical concepts essential for data science and machine learnin
 - Data transformation techniques
 - Real-world applications in ML
 
-### 🐍 Python Cookbook
-Practical recipes and deep dives into Python features.
+### 🐍 Python Pro Bootcamp
+My journey from basics to advanced Python development, including a detailed cookbook of recipes and patterns.
 
-| Recipe | Description | Status |
-|--------|-------------|--------|
-| [🖨️ Mastering Output](./Python%20Pro%20Bootcamp/Python_Cookbook/01_mastering_output.md) | Deep dive into professional data output, f-strings, and stream control. | ✅ |
-| [🐞 Professional Debugging](./Python%20Pro%20Bootcamp/Python_Cookbook/02_professional_debugging.md) | Systematic debugging techniques and error handling for production code. | ✅ |
-| [💾 Variables, Memory & Input](./Python%20Pro%20Bootcamp/Python_Cookbook/03_variables_memory_and_input.md) | Variables as memory pointers, object mutability, and professional input sanitization patterns. | ✅ |
+**📖 [View Full Bootcamp Repository](./Python%20Pro%20Bootcamp/Readme.md)** - Access all projects, exercises, and the Python Cookbook.
 
 ---
 
