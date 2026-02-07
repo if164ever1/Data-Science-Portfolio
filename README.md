@@ -56,6 +56,15 @@ Practical recipes and deep dives into Python features.
 | Recipe | Description | Status |
 |--------|-------------|--------|
 | [🖨️ Mastering Output](./Python%20Pro%20Bootcamp/Python_Cookbook/01_mastering_output.md) | Deep dive into professional data output, f-strings, and stream control. | ✅ |
+| [🐞 Professional Debugging](./Python%20Pro%20Bootcamp/Python_Cookbook/02_professional_debugging.md) | Systematic debugging techniques and error handling for production code. | ✅ |
+
+---
+
+## 🔗 Useful Resources
+
+A curated collection of helpful websites, tools, and official documentation.
+
+**👉 [Explore Useful Links](./USEFUL_LINKS.md)**
 
 ---
 

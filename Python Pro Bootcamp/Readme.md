@@ -28,6 +28,7 @@ Welcome to my central repository for Python development! This space tracks my pr
 | Recipe | Description | Status |
 |--------|-------------|--------|
 | [🖨️ Mastering Output](./Python_Cookbook/01_mastering_output.md) | Deep dive into professional data output, f-strings, and stream control. | ✅ |
+| [🐞 Professional Debugging](./Python_Cookbook/02_professional_debugging.md) | Systematic debugging techniques and error handling for production code. | ✅ |
 
 ---
 
