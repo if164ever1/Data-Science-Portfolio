@@ -50,6 +50,13 @@ Fundamental mathematical concepts essential for data science and machine learnin
 - Data transformation techniques
 - Real-world applications in ML
 
+### 🐍 Python Cookbook
+Practical recipes and deep dives into Python features.
+
+| Recipe | Description | Status |
+|--------|-------------|--------|
+| [🖨️ Mastering Output](./Python%20Pro%20Bootcamp/Python_Cookbook/01_mastering_output.md) | Deep dive into professional data output, f-strings, and stream control. | ✅ |
+
 ---
 
 ## 🏆 Certifications
