@@ -31,6 +31,7 @@ Welcome to my central repository for Python development! This space tracks my pr
 | [🖨️ Mastering Output](./Python_Cookbook/01_mastering_output.md) | Deep dive into professional data output, f-strings, and stream control. | ✅ |
 | [🐞 Professional Debugging](./Python_Cookbook/02_professional_debugging.md) | Systematic debugging techniques and error handling for production code. | ✅ |
 | [💾 Variables, Memory & Input](./Python_Cookbook/03_variables_memory_and_input.md) | Variables as memory pointers, object mutability, and professional input sanitization patterns. | ✅ |
+| [🔢 Primitive Types & Precision](./Python_Cookbook/04_primitive_data_types_and_precision.md) | Deep dive into integer precision, floating-point traps (IEEE 754), and professional string manipulation. | ✅ |
 
 ---
 
