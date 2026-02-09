@@ -33,6 +33,7 @@ Welcome to my central repository for Python development! This space tracks my pr
 | [💾 Variables, Memory & Input](./Python_Cookbook/03_variables_memory_and_input.md) | Variables as memory pointers, object mutability, and professional input sanitization patterns. | ✅ |
 | [🔢 Primitive Types & Precision](./Python_Cookbook/04_primitive_data_types_and_precision.md) | Deep dive into integer precision, floating-point traps (IEEE 754), and professional string manipulation. | ✅ |
 | [🛡️ Type Integrity & Conversion](./Python_Cookbook/05_type_integrity_and_conversion.md) | Professional type safety, defensive type checking with isinstance, and fail-safe data casting patterns. | ✅ |
+| [🧮 Math Operations & Algorithms](./Python_Cookbook/06_mathematical_operations_and_algorithms.md) | Computational arithmetic, operator precedence, and the hidden mechanics of Python’s math functions. | ✅ |
 
 ---
 
