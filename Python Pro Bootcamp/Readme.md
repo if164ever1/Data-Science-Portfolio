@@ -17,9 +17,8 @@ Welcome to my central repository for Python development! This space tracks my pr
 ## 🚀 Projects in Progress
 
 - [x] **[Band Name Generator](./Projects/01_band_name_generator.py)** — A CLI tool that generates creative band names using string manipulation.
-- [ ] **File Organizer** — Python script for monitoring the Downloads folder and sorting files automatically.
-- [ ] **Android Connect-2 Game** — Logic development for a mobile puzzle game.
-- [ ] **Database Analysis Project** — Data normalization and analysis using Python & MySQL.
+- [x] **[Tip Calculator](./Projects/02_tip_calculator.py)** — A script to calculate bill splitting and tips with precision.
+
 
 ---
 
