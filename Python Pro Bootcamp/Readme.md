@@ -8,7 +8,7 @@ Welcome to my central repository for Python development! This space tracks my pr
 
 | Directory | Description |
 | :--- | :--- |
-| [**Exercises/**](./Exercises) | Daily coding challenges, algorithms, and practice tasks. |
+| [**Exercises/**](./Coding_Exercises) | Daily coding challenges, algorithms, and practice tasks. |
 | [**Projects/**](./Projects) | Full-scale applications (Automation, UI, Data Analysis). |
 | [**Python_Cookbook/**](./Python_Cookbook) | Theoretical base: Lectures, notes, and Python best practices. |
 
