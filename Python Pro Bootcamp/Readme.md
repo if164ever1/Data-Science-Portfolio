@@ -37,6 +37,7 @@ Welcome to my central repository for Python development! This space tracks my pr
 | [🧮 Math Operations & Algorithms](./Python_Cookbook/06_mathematical_operations_and_algorithms.md) | Computational arithmetic, operator precedence, and the hidden mechanics of Python’s math functions. | ✅ |
 | [🚦 Control Flow & Conditionals](./Python_Cookbook/07_control_flow_and_conditionals.md) | Mastering flat logic with Guard Clauses, Pythonic truthiness, and Python 3.10 Pattern Matching. | ✅ |
 | [🎲 Randomness & Probability](./Python_Cookbook/08_randomness_and_probability.md) | Understanding PRNG, reproducibility with Seeds (critical for ML), and cryptographic security with the secrets module. | ✅ |
+| [📊 Lists & Memory Arrays](./Python_Cookbook/09_lists_and_memory_arrays.md) | Analysis of dynamic array allocation, memory pointers, and Big-O performance of list operations vs deque. | ✅ |
 
 ---
 
