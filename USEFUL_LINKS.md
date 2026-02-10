@@ -27,6 +27,7 @@ A curated list of helpful websites, tools, and documentation for Data Science an
 | **Math for Deep Learning** | Comprehensive course on mathematical foundations for Deep Learning. | 📺 Course | [Watch](https://www.youtube.com/watch?v=kyQ0CRkYhy4&list=PLUl4u3cNGP60YyhMjYmXuVmX562QcClSp) |
 | **Deep Learning Series** | In-depth tutorials covering Deep Learning concepts and implementation. | 📺 Course | [Watch](https://www.youtube.com/watch?v=DrhJLHiia7g&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9) |
 | **Deep Learning Course** | Extensive video series covering Deep Learning fundamentals and applications. | 📺 Course | [Watch](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) |
+| **DataCamp** | Interactive learning platform for Data Science and AI. | 🎓 Platform | [Visit Site](https://app.datacamp.com/) |
 
 ---
 
