@@ -19,6 +19,7 @@ Welcome to my central repository for Python development! This space tracks my pr
 - [x] **[Band Name Generator](./Projects/01_band_name_generator.py)** — A CLI tool that generates creative band names using string manipulation.
 - [x] **[Tip Calculator](./Projects/02_tip_calculator.py)** — A script to calculate bill splitting and tips with precision.
 - [x] **[Treasure Island](./Projects/03_treasure_island.py)** — A text-based adventure game using conditional logic and control flow.
+- [x] **[Rock Paper Scissors](./Projects/04_rock_paper_scossors.py)** — A classic game implementation using randomization and conditional logic.
 - [ ] **File Organizer** — Python script for monitoring the Downloads folder and sorting files automatically.
 
 
