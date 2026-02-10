@@ -28,6 +28,8 @@ A curated list of helpful websites, tools, and documentation for Data Science an
 | **Deep Learning Series** | In-depth tutorials covering Deep Learning concepts and implementation. | 📺 Course | [Watch](https://www.youtube.com/watch?v=DrhJLHiia7g&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9) |
 | **Deep Learning Course** | Extensive video series covering Deep Learning fundamentals and applications. | 📺 Course | [Watch](https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) |
 | **DataCamp** | Interactive learning platform for Data Science and AI. | 🎓 Platform | [Visit Site](https://app.datacamp.com/) |
+| **MIT OCW (EECS)** | Free lecture videos and materials for Electrical Engineering & Computer Science. | 🎓 Course | [Visit Site](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&f=Lecture%20Videos&f=Lecture%20Audio&s=department_course_numbers.sort_coursenum) |
+| **fast.ai** | Practical Deep Learning courses focused on coding and implementation. | 🎓 Course | [Visit Site](https://www.fast.ai/#category=courses&listing-listing-page=2) |
 
 ---
 
