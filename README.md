@@ -71,6 +71,7 @@ Below are the professional certifications and credentials I've earned:
 
 | Badge | Certification Name | Issued By | Certificate |
 |:-----:|:-------------------|:----------|:-----------:|
+| <img src="./img/kaggle.png" width="80"> | Kaggle Intro to Programming | Kaggle | [View Certificate](./Certifications/ihor%20zadorozhniak%20-%20Intro%20to%20Programming.png) |
 | <img src="./img/kaggle.png" width="80"> | Kaggle Python | Kaggle | [View Certificate](./Certifications/ihor%20zadorozhniak%20-%20Python.png) |
 
 ---
