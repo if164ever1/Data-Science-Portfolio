@@ -40,3 +40,13 @@ jupyter lab
 jupyter notebook
 ```
 
+## Key Concepts
+
+This project covers fundamental concepts in image processing and computer vision using OpenCV, including:
+
+- **Image Loading and Saving**: How to read various image formats and write processed images back to disk.
+- **Pixel Manipulation**: Accessing and modifying individual pixel values or regions of interest.
+- **Image Display**: Displaying images and video streams using OpenCV functions.
+- **Basic Image Operations**: Understanding image properties like dimensions, channels, and data types.
+
+
