@@ -48,5 +48,16 @@ This project covers fundamental concepts in image processing and computer vision
 - **Pixel Manipulation**: Accessing and modifying individual pixel values or regions of interest.
 - **Image Display**: Displaying images and video streams using OpenCV functions.
 - **Basic Image Operations**: Understanding image properties like dimensions, channels, and data types.
+- **Image Rotation**: Techniques for rotating images by various angles.
+- **Image Translation**: Shifting images along the X and Y axes.
+
+## Further Learning
+
+To deepen your understanding of OpenCV and image processing, consider exploring these resources:
+
+- **Official OpenCV Documentation**: The official documentation is an excellent resource for detailed information on all OpenCV functions and modules. [Official OpenCV Documentation](https://docs.opencv.org/4.x/)
+- **PyImageSearch Blog**: Adrian Rosebrock's PyImageSearch blog offers numerous tutorials and guides on computer vision with OpenCV and Python. [PyImageSearch Blog](https://www.pyimagesearch.com/)
+- **Books**: "Practical Python and OpenCV" by Adrian Rosebrock (if this is the source material for the project) or other general computer vision textbooks.
+
 
 
